@@ -8,4 +8,4 @@ randPositionInVisual：视野中随机找一个状态
 evaluate：评估pery、swarm、follow中哪种行为最优
 moveto：往目标状态移动一步
 
-2020/1/8 修改测试
+2020/1/8 修改测试2
