@@ -1,0 +1,11 @@
+本例中的状态就是位置（二维坐标），函数值就是食物度，找最优即找食物度最大的状态（坐标）
+
+main：主函数
+prey：觅食行为
+swarm：聚群行为
+follow：追尾行为
+randPositionInVisual：视野中随机找一个状态 
+evaluate：评估pery、swarm、follow中哪种行为最优
+moveto：往目标状态移动一步
+
+2020/1/8 修改测试
